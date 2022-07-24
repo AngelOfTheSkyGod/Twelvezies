@@ -1,0 +1,201 @@
+
+.HeaderBar{
+    /* Rectangle 85 */
+    position: relative;
+    width: 800px;
+    height: 55px;
+    border-radius: 15px;
+    background: #89CFF0
+    ;
+}
+
+.GlobeImage{
+    position: relative;
+    width: 55px;
+    height: 55px;
+    /* left: calc(50% - 24px/2 - 50px);
+    top: calc(50% - 24px/2 - 324px); */
+
+    /* background: #DADADA; */
+}
+
+.Title{
+    position: relative;
+    width: 500px;
+    height: 16px;
+    left: 250px;
+    top: -65px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+
+    color: #FFFFFF;
+}
+
+.Page{
+    /* final-score */
+
+
+    position: absolute;
+    width: 800px;
+    height: 1000px;
+    left: 850px;
+    top: 0px;
+    border-radius: 20px;
+    background: #FFFFFF;
+}
+
+
+.TopBar, .TopBar2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.DestinationImg{
+    position: relative;
+    width: 15px;
+    height: 15px;
+    
+
+}
+
+
+.CardImage{
+    /* Rectangle 77 */
+
+
+    position: absolute;
+    width: 150px;
+    height: 200px;
+    left: 40px;
+    top: 75px;
+
+    border-radius: 5px;
+}
+
+.Background{
+    position: relative;
+    width: 200px;
+    height: 300px;
+    top: -10px;
+}
+
+.Description{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 250px;
+}
+
+.TopBar2{
+    
+    position: relative;
+    left: 0px;
+    top: 80px;
+   
+}
+
+.DestinationImg{
+    
+position: relative;
+width: 14px;
+
+height: 18px;
+
+
+}
+
+.CountryName{
+    /* JAPAN */
+
+
+position: relative;
+width: 90px;
+height: 20px;
+left: 15px;
+top: 5px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 12px;
+letter-spacing: 0.17em;
+
+color: #2B283A;
+}
+
+.DestinationLink{
+    position: absolute;
+    width: 106px;
+    height: 13px;
+    top: 15px;
+    left: 100px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    /* identical to box height */
+    
+    text-decoration-line: underline;
+    
+    color: #918E9B;
+}
+
+.LocationName{
+        /* Mount Fuji */
+    position: relative;
+    width: 326px;
+    height: 40px;
+    left: 0px;
+    top: 60px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #2B283A;
+}
+
+.Date{
+    position: relative;
+    width: 350px;
+    height: 11px;
+    left: 0px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 12px;
+
+    color: #2B283A;
+}
+
+.LocationDescription{
+    position: relative;
+    width: 400px;
+    height: 45px;
+    left: 0px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    /* or 15px */
+
+
+    color: #2B283A;
+}

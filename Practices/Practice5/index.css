@@ -1,0 +1,50 @@
+.Pricing{
+    float: right;
+    list-style: none;
+    font-size: 25px;
+}
+
+.About{
+    float: right;
+    list-style: none;
+    font-size: 25px;
+}
+
+.Contact{
+    float: right;
+    list-style: none;
+    font-size: 25px;
+    
+}
+
+.List{
+    float: right;
+    display: flex;
+    flex-direction: row;
+    gap:25px;
+
+}
+.ReactLogo{
+    width: 200px;
+}
+
+.Reasons{
+    font-size: 5rem;
+}
+
+.Title{
+    font-size: 7rem;
+}
+
+.Footer{
+    font-size: 7rem;
+}
+.Navigation{
+    gap: 130rem;
+    display:flex;
+    align-content: center;
+}
+
+.body{
+    background-color: grey;
+}
