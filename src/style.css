@@ -61,6 +61,7 @@
 
 .Number {
   position: absolute;
+  text-align: center;
   left: 30%;
   top: 5%;
 }
@@ -74,7 +75,7 @@
 }
 
 .Title {
-  position: absolute;
+  position: relative;
   size: 5%;
   left: 30%;
   top: 0%;
@@ -82,10 +83,10 @@
 }
 
 .Display-rule {
-  position: absolute;
+  position: relative;
   font-size: 160%;
   text-indent: -6%;
-  top: 15%;
+  top: 5%;
   left: 5%;
 }
 
@@ -101,8 +102,7 @@
 }
 
 .Roll {
-  position: absolute;
+  position: relative;
+  text-align: center;
   font-size: 400%;
-  left: 20%;
-  top: -10%;
 }
