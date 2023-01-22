@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AngelOfTheSkyGod/Twelvezies/static/css/main.d4fbfa60.css",
+    "main.js": "/AngelOfTheSkyGod/Twelvezies/static/js/main.08da4f04.js",
+    "index.html": "/AngelOfTheSkyGod/Twelvezies/index.html",
+    "main.d4fbfa60.css.map": "/AngelOfTheSkyGod/Twelvezies/static/css/main.d4fbfa60.css.map",
+    "main.08da4f04.js.map": "/AngelOfTheSkyGod/Twelvezies/static/js/main.08da4f04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4fbfa60.css",
+    "static/js/main.08da4f04.js"
+  ]
+}
